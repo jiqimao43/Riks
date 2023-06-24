@@ -25,8 +25,9 @@ git checkout <branch>
 
 ## Known Issues
 
-1. Please check the [Troubleshooting Guide](./TROUBLESHOOTING.md). Fixes for known issues are listed there.
-2. If you need support, please post your issues in our [SAP BTP Learning Group](https://groups.community.sap.com/t5/sap-btp-learning/gh-p/SAP-BTP-Learning).
+You can find the known issues [here](https://github.com/SAP-samples/extension-suite-learning-journey/issues).
+
+We rather recommend to use our [SAP BTP Learning Group](https://groups.community.sap.com/t5/sap-btp-learning/gh-p/SAP-BTP-Learning).
 
 ## How to obtain support
 
@@ -39,3 +40,16 @@ If you wish to contribute code, offer fixes or improvements, please send a pull 
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+`readme.md` | this getting started guide
+
+
+## Next Steps
+
+- Open a new terminal and run `cds watch` 
+- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
+- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+
+
+## Learn More
+
+Learn more at https://cap.cloud.sap/docs/get-started/.
